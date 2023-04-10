@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshada1168
-- 👀 I’m interested in WebDevelopment especially in creating frontend of a website 
-- 🌱 I’m currently learning Full stack WebDevelopment 
+- 👀 I’m interested in WebDevelopment, UI/UX Design and emerging new twchnologies
+- 🌱 I’m currently learning Full stack WebDevelopment along with Machine Learning in Python
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me harshadadhakate0808@gmail.com
 
